@@ -1,4 +1,6 @@
 # TTS的一些实现 
+![language-python-blue](https://img.shields.io/badge/language-python-blue.svg)
+![GitHub](https://img.shields.io/github/license/conanlm/tts)
 
 1.win32com使用本地window的TTS
 
