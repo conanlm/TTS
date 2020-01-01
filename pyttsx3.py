@@ -8,5 +8,5 @@ with open('1.txt','r',encoding='utf-8') as f:
     # 调整音量
     volume = engine.getProperty('volume')
     engine.setProperty('volume', volume+0.25)
-    engine.say(line) 
+    engine.say(line)
     engine.runAndWait()
