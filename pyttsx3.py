@@ -9,4 +9,4 @@ with open('1.txt','r',encoding='utf-8') as f:
     volume = engine.getProperty('volume')
     engine.setProperty('volume', volume+0.25)
     engine.say(line) 
-    engine.runAndWait()
+    engine.runAndWait()    
